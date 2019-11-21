@@ -1,0 +1,23 @@
+
+.buttons{
+    margin: 10px;
+
+}
+.button{
+    margin: 0 auto;
+    background: lightblue;
+    font-size: 20px;
+}
+.column{
+   display: grid;
+   grid-template-columns: auto auto auto;
+  
+}
+
+.image-dog{
+    text-align: center;
+}
+img{
+    width : 150px;
+    height: 200px;
+}
